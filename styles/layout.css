@@ -403,6 +403,18 @@ table a, #comments a{background-color:inherit;}
 
 #pageintro article footer a{color: silver;}
 
+.displaypNone{
+	 display: none;
+}
+
+.firstBackgroundImg{
+	background-image:url('../images/demo/backgrounds/01.png');
+}
+
+.secondBackgroundImg{
+	background-image:url('../images/demo/backgrounds/02.png');
+}
+
 
 /* sidebar-right.html
 --------------------------------------------------------------------------------------------------------------- */
