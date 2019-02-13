@@ -393,6 +393,16 @@ table a, #comments a{background-color:inherit;}
 
 /* index.html
 --------------------------------------------------------------------------------------------------------------- */
+.indexp{
+	text-align: justify;
+}
+
+#pageintro article h2{color: orange;}
+
+#pageintro article h2 span{color: lightblue;}
+
+#pageintro article footer a{color: silver;}
+
 
 /* sidebar-right.html
 --------------------------------------------------------------------------------------------------------------- */
