@@ -432,7 +432,15 @@ table a, #comments a{background-color:inherit;}
 .ulsidebar {
 	background-color: silver;
 }
-
+.sdb_holder1{
+	background-color: silver;
+}
+.ulsdb_holder1{
+	color: black !important;"
+}
+.wrapper bgded overlay{
+	background-image:url('../images/demo/backgrounds/01.png');
+}
 	
 --------------------------------------------------------------------------------------------------------------- */
 
